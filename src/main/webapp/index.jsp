@@ -16,7 +16,7 @@
 		<a href="manage_cv.jsp"><span>Quản lý CV</span></a> 
 		<a><span>Lịch hẹn</span></a> 
 		<a></i><span>Quản lý tài khoản</span></a> 
-		<div class="search-bar">
+		<div class="search-bar" id="search-bar-header">
 			<input type="text" placeholder="Tìm kiếm..." />
 		</div>
 		<button>Đăng ký</button>

@@ -129,7 +129,7 @@ body {
 
 .search-bar {
 	display: flex;
-	margin: 20px;
+	margin: 0px;
 	align-items: center;
 }
 
@@ -194,12 +194,12 @@ body {
 	font-size: 30px;
 }
 
-.header a, .search-bar {
+.header a, #search-bar-header {
 	font-size: large;
 	margin: 20px;
 }
 
-.header .search-bar {
+#search-bar-header{
 	flex: 1;
 }
 

@@ -58,7 +58,7 @@
             <div class="expander_content" id="basic_info_expander_content">
                 <form>
                     <div class="avartar">
-                        <img src="avatar.jpg" alt="avartar">
+                        <img src="https://cellphones.com.vn/sforum/wp-content/uploads/2023/10/avatar-trang-4.jpg" alt="avartar">
                         <button class="avartar_button">Thêm ảnh</button>                        
                     </div>
                     <hr/>

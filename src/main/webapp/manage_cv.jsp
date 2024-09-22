@@ -15,11 +15,11 @@
 		<h2><a href = "index.jsp">CVHub</a></h2>
 		<a href="manage_cv.jsp"><span>Quản lý CV</span></a> 
 		<a><span>Lịch hẹn</span></a> 
-		<a></i><span>Quản lý tài khoản</span></a> 
+		<a><span>Quản lý tài khoản</span></a> 
 	</div>
 
 	<div class="content" id="content">
-		<div class="search-bar">
+		<div class="search-bar" >
 			<input type="text" placeholder="Tìm kiếm CV..." />
 			<button>Tìm kiếm</button>
 		</div>
